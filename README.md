@@ -6,7 +6,7 @@ Uses FFmpeg (as Web Assembly binary)
 
 Inspired/built on top of a video from Fireship.io
 
-Works like this: (Which was made from this website as well LOL, with the help of loom)
+Works like this:
 
 ![Alt Text](https://raw.githubusercontent.com/naijwu/create-gifs/main/demo.gif)
 
